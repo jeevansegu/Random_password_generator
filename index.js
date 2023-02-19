@@ -82,8 +82,10 @@ function generate() {
 
 function copy1() {
     navigator.clipboard.writeText(password1El.textContent)
+    alert("Copied")
 }
 
 function copy2() {
     navigator.clipboard.writeText(password2El.textContent)
+    alert("Copied")
 }
