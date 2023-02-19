@@ -279,3 +279,18 @@ order: 0;
 flex-grow: 0;
 
 }
+
+#generate:active {
+    background: #273549;
+    color: #55F991;
+}
+
+#password1:active {
+    background: #10B981;
+    color: #FFFFFF;
+}
+
+#password2:active {
+    background: #10B981;
+    color: #FFFFFF;
+}
